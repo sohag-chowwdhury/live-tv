@@ -8,7 +8,7 @@ import { SIGN_IN,
          DELETE_STREAM } from '../actions/type';
 import streams from '../apis/streams';
 export const signIn=(userId)=>{
-    return{
+    return{  
         type:SIGN_IN,
         payload:userId
     }
