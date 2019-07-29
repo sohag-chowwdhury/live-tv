@@ -1,3 +1,19 @@
 {
-    "streams": []
+  "streams": [
+    {
+      "title": "saFV",
+      "description": "ADGVF",
+      "id": 1
+    },
+    {
+      "title": "saFV",
+      "description": "ADGVF",
+      "id": 2
+    },
+    {
+      "title": "saFV",
+      "description": "ADGVF",
+      "id": 3
+    }
+  ]
 }
